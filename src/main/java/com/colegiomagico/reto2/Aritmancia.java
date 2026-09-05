@@ -6,10 +6,11 @@ package com.colegiomagico.reto2;
 public class Aritmancia {
 
     public static int sumar(int a, int b) {
-        return 0; // TODO: Cambia esto
+        return a+b; // TODO: Cambia esto
     }
 
     public static void main(String[] args) {
         System.out.println("2 + 3 = " + sumar(2, 3));
     }
+
 }
