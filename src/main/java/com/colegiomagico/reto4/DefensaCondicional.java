@@ -11,7 +11,6 @@ public class DefensaCondicional {
         } else {
             return "Permitido";
         }
-        return ""; // TODO: Cambia esto
     }
 
     public static void main(String[] args) {
