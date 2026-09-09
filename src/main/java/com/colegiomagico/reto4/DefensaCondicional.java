@@ -7,7 +7,7 @@ public class DefensaCondicional {
 
     public static String evaluar(String hechizo) {
         if (hechizo.equals("Imperius") || hechizo.equals("Crucio")) {
-            return "maldicion";
+            return "Maldicion";
         } else {
             return "Permitido";
         }
