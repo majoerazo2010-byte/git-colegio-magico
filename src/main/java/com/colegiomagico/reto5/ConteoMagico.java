@@ -5,7 +5,7 @@ package com.colegiomagico.reto5;
  */
 public class ConteoMagico {
 
-    public static int contar(int limite) {
+    public static int +contar(int limite) {
         int suma = 0;
         int numero = 1;
 
